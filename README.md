@@ -1,6 +1,6 @@
 # School_ITHS
 
-Excercise in class inheritance. Creating a school of Person, Students, Teachers
+Excercise in class inheritance. Creating a school of Persons, Students, Teachers
 
 ## File description
 * Program.cs - Main program that creates objects and adds them to the school, also lists all members in school.
